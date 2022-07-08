@@ -74,7 +74,7 @@ To further analyze these three models, their balanced accuracy score was taken i
 - Easy Ensemble Classifier 93%
 - Balanced Random Forest Classfier 79%
 
-Overall, the Easy Ensemble Classifier is the best model that was used, showing a 93% balanced accuracy scoreand a 67% high risk recall score. The Balanced Random Forest Classifier was the next best performing model, showing a balanced accuracy score of 79% and a 67% high risk recall score. 
+Overall, the Easy Ensemble Classifier is the best model that was used, showing a 93% balanced accuracy score and a 67% high risk recall score. The Balanced Random Forest Classifier was the next best performing model, showing a balanced accuracy score of 79% and a 67% high risk recall score. 
 
 I would recommend using the Easy Ensemble Classifier model to predict high risk loans.
 
