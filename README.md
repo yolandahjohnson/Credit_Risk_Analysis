@@ -37,13 +37,32 @@ I will employ different techniques such as the imbalanced-learn and scikit-learn
 ![ClusterCentroids](https://user-images.githubusercontent.com/100816778/177928920-26dc9615-b9bb-4e63-b733-c46d06b178f3.png)
 
 ### SMOTEENN Sampling
-- Balanced accuracy score: 63%
+- Balanced accuracy score: 52%
 - High risk precision score: 1% 
 - Low risk precision score: 100%
-- High risk recall score: 61%
-- Low risk recall score: 65%
+- High risk recall score: 74%
+- Low risk recall score: 58%
 
 ![SMOTEENN](https://user-images.githubusercontent.com/100816778/177928943-1e33e392-c47d-497c-920d-8b73164a6a32.png)
+
+### BalancedRandomForestClassifier
+- Balanced accuracy score: 79%
+- High risk precision score: 4% 
+- Low risk precision score: 100%
+- High risk recall score: 67%
+- Low risk recall score: 91%
+
+![BalancedRandomForestClassifier](https://user-images.githubusercontent.com/100816778/177929238-23a70251-c6e8-43f3-9edd-e0aa56235c66.png)
+
+### EasyEnsembleClassifier
+- Balanced accuracy score: 93%
+- High risk precision score: 4% 
+- Low risk precision score: 100%
+- High risk recall score: 67%
+- Low risk recall score: 91%
+
+![EasyEnsembleClassifier](https://user-images.githubusercontent.com/100816778/177929420-1db4e7fc-0a5c-4f6d-9f33-ed5ef24b146b.png)
+
 
 
 
