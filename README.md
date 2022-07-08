@@ -26,3 +26,24 @@ I will employ different techniques such as the imbalanced-learn and scikit-learn
 - Low risk recall score: 65%
 
 ![SMOTE Oversampling](https://user-images.githubusercontent.com/100816778/177928395-74c8e912-802b-4c60-8280-a829b45158c8.png)
+
+### ClusterCentroids Undersampling
+- Balanced accuracy score: 63%
+- High risk precision score: 1% 
+- Low risk precision score: 100%
+- High risk recall score: 60%
+- Low risk recall score: 43%
+
+![ClusterCentroids](https://user-images.githubusercontent.com/100816778/177928920-26dc9615-b9bb-4e63-b733-c46d06b178f3.png)
+
+### SMOTEENN Sampling
+- Balanced accuracy score: 63%
+- High risk precision score: 1% 
+- Low risk precision score: 100%
+- High risk recall score: 61%
+- Low risk recall score: 65%
+
+![SMOTEENN](https://user-images.githubusercontent.com/100816778/177928943-1e33e392-c47d-497c-920d-8b73164a6a32.png)
+
+
+
