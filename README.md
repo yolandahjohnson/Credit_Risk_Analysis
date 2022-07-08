@@ -17,3 +17,12 @@ I will employ different techniques such as the imbalanced-learn and scikit-learn
 - Low risk recall score: 68%
 
 ![RandomOverSampler](https://user-images.githubusercontent.com/100816778/177925934-8f423078-4c89-4974-9b2c-4eb5f79d73ea.png)
+
+### SMOTE Oversampling
+- Balanced accuracy score: 63%
+- High risk precision score: 1% 
+- Low risk precision score: 100%
+- High risk recall score: 61%
+- Low risk recall score: 65%
+
+![SMOTE Oversampling](https://user-images.githubusercontent.com/100816778/177928395-74c8e912-802b-4c60-8280-a829b45158c8.png)
